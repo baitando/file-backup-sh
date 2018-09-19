@@ -1,0 +1,7 @@
+/Users/johndoe/Desktop
+/Users/johndoe/Documents
+/Users/johndoe/Downloads
+/Users/johndoe/Movies
+/Users/johndoe/Music
+/Users/johndoe/Pictures
+/Users/johndoe/Public

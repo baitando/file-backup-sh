@@ -1,3 +1,5 @@
+#!/bin/bash
+
 function abort {
     echo "Sicherung wurde abgebrochen"
     exit
